@@ -1,5 +1,5 @@
-# repo template
+# • MAKER (DOTMAKER)
 
-description
+Concentric dot pattern generator
 
-[tmpl.timagineer.com](https://tmpl.timagineer.com)
+[dotmaker.timagineer.com](https://dotmaker.timagineer.com)
